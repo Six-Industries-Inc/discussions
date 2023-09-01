@@ -30,6 +30,7 @@ Welcome to the discussions repository for Six Industries of Arizona. This space 
 # How to Participate
 
 **1. Create an Account:** If you haven’t already, sign up for a GitHub account.
+
 **2. Navigate to Discussions:** On the main page of this repository, click on the Discussions tab.
 **3. Start a New Discussion or Participate:** You can start a new thread or contribute to an existing one.
 
