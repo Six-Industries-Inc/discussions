@@ -33,6 +33,7 @@ Welcome to the discussions repository for Six Industries of Arizona. This space 
 We aim to maintain a healthy and inclusive community. Before participating, please ensure you’ve read and understood our Code of Conduct and Discussion Guidelines.
 
 # Topics of Interest
+
 **- Tool Integrations:** Best practices, challenges, and solutions.
 
 **- Industry-Specific Use Cases:** How our tools are transforming each of our supported industries.
