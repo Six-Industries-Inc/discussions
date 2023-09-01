@@ -24,6 +24,7 @@ Welcome to the discussions repository for Six Industries of Arizona. This space 
 **2. Feature Requests:** Have a great idea? Share it with us!
 
 **3. Feedback:** Used our tools? Tell us about your experience.
+
 **4. General Discussions:** Any other topic you think is relevant and worth discussing.
 
 # How to Participate
