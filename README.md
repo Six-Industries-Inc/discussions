@@ -34,8 +34,11 @@ We aim to maintain a healthy and inclusive community. Before participating, plea
 
 # Topics of Interest
 **- Tool Integrations:** Best practices, challenges, and solutions.
+
 **- Industry-Specific Use Cases:** How our tools are transforming each of our supported industries.
+
 **- Updates & Announcements:** Latest news from the Six Industries of Arizona team.
+
 **-Technical Support:** Get help from the community and our tech team.
 
 # Support
