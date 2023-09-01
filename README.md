@@ -22,6 +22,7 @@ Welcome to the discussions repository for Six Industries of Arizona. This space 
 **1. Questions:** Unclear about how a specific tool works? Ask away!
 
 **2. Feature Requests:** Have a great idea? Share it with us!
+
 **3. Feedback:** Used our tools? Tell us about your experience.
 **4. General Discussions:** Any other topic you think is relevant and worth discussing.
 
